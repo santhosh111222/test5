@@ -8,6 +8,7 @@ public class Test5Application {
         int  x = 99;
 	int y =100;
 	double z = 89.3;
+	float m = 10.3f;
       
 	
 	public static void main(String[] args) {
