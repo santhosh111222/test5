@@ -5,9 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test5Application {
-        int  x = 99;
+  int  x = 99;
 	int y =100;
 	double z = 89.3;
+	char x = 'a'
 	float m = 10.3f;
       
 	
