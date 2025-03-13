@@ -5,11 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test5Application {
-       boolean isPresent= true;
-        double z = 78.8;         
         int  x = 99;
 	int y =100;
 	double z = 89.3;
+        double z = 78.8;
+        boolean isPresent= true;
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
