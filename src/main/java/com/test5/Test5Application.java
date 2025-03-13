@@ -5,8 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test5Application {
-
-	int  x = 99;
+        int  x = 99;
 	int y =100;
 	double z = 89.3;
 
